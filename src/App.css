@@ -1,0 +1,87 @@
+/* .app-container {
+  background: linear-gradient(to right, #cbd5e1, #fff);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 40px 10px;
+}
+
+.tracker-box {
+  background: white;
+  border-radius: 24px;
+  padding: 20px;
+  width: 100%;
+  max-width: 500px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
+}
+
+.title {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.input-field {
+  width: 100%;
+  background-color: #cbd5b1;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.submit-button {
+  width: 100%;
+  background-color: #007bff;
+  color: white;
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 0 0 2px black inset;
+}
+
+.summary-box {
+  background-color: #e0f2fe;
+  margin-top: 20px;
+  padding: 16px;
+  border-radius: 16px;
+  font-size: 16px;
+}
+
+.expense-list {
+  margin-top: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.expense-card {
+  background: white;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-left: 4px solid blue;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.expense-title {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.delete-button {
+  background-color: #007bff;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+} */
